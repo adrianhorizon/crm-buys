@@ -1,0 +1,53 @@
+{
+  "leads": [
+    {
+      "id": 1,
+      "firstName": "adrian",
+      "birthday": "11/12/1994",
+      "email": "test@gmail.com",
+      "identification": 1212
+    },
+    {
+      "id": 1234,
+      "firstName": "yo",
+      "birthday": "11/12/1994",
+      "email": "yo@gmail.com",
+      "identification": 12125
+    },
+    {
+      "firstName": "ssas",
+      "birthday": "2021-03-04",
+      "email": "camilod4568@gmail.com",
+      "identification": "1014255033",
+      "id": 1235
+    },
+    {
+      "firstName": "loco",
+      "birthday": "2021-03-13",
+      "email": "rappigro@gmail.com",
+      "identification": "122221",
+      "id": 1237
+    }
+  ],
+  "registry": [
+    {
+      "id": 1234,
+      "birthday": "11/12/1990",
+      "firstName": "test01",
+      "email": "test01@gmail.com"
+    },
+    {
+      "id": 12345,
+      "birthday": "11/12/1991",
+      "firstName": "leo",
+      "email": "leo@gmail.com"
+    }
+  ],
+  "archive": [
+    {
+      "id": 101019728,
+      "description": "test archive",
+      "firstName": "pocoyo"
+    }
+  ]
+}
